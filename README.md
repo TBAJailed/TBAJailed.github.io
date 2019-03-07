@@ -1,2 +1,2 @@
 # TBAJailed.github.io
-follow @TBAjb_News
+follow @TBAjb_News on twitter
