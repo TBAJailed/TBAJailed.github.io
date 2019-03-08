@@ -1,0 +1,8 @@
+using beta36.sys;
+using Tar.bz.xyte.Mt.Lua.51.2.dll.jksn;
+using LUNA;
+
+CONNECT;>cydia
+LUA CONNECT;>Tar.bz.xyte.Mt.Lua.51.2.dll.jksn
+LUNA;cydia Connect Tar.bz.xyte.Mt.Lua.51.2.dll.jksn
+Send;LUNA unc0ver C-a.jksn
