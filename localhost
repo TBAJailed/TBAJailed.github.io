@@ -1,0 +1,9 @@
+connect 127.0.0.1
+IP.NewIP = IPadress
+ping 127.0.0.1
+If [response -1] = true then
+Function.Disconnect else if
+[response = 1] then
+Run Kernel
+Run Tar.bz.xyte.Mt.Lua.51.2.dll.jksn
+Read [E[connect.cordog.tacos{intercept}]]]
