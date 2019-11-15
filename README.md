@@ -1,4 +1,4 @@
 # TBAJailed.github.io
 follow @TBAjb_News on twitter
-also if your a electra user im
+also if you're an electra user im
 dissapointed in you...
